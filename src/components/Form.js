@@ -15,7 +15,7 @@ const Form = () => {
     email: "",
     subject: "",
     message: "",
-    access_key: "4f412a8f-0a11-4ba9-8e37-e12661f36602",
+    access_key: "371665d6-f8b3-4db5-8a37-a2259118939a",
   });
 
   const handleChange = (e) => {
@@ -28,7 +28,10 @@ const Form = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    const data = JSON.stringify(formData);
+    const data = JSON.stringify({
+      ...formData,
+      to_email: "apham.dev@gmail.com", // Replace with your email address
+    });
 
     fetch("https://api.web3forms.com/submit", {
       method: "POST",

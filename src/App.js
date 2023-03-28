@@ -3,13 +3,13 @@ import AnimatedRoutes from "./components/AnimatedRoutes";
 
 function App() {
   const personalDetails = {
-    name: "Michael Yeates",
-    location: "Loughborough, UK",
-    tagline: "I'm a Developer",
-    email: "michael-yeates@outlook.com",
+    name: "Anthony Pham",
+    location: "Irvine, CA",
+    tagline: "I'm a FullStack Developer",
+    email: "apham.dev@gmail.com",
     availability: "Open for work",
     brand:
-      "My unique blend of technical expertise, creative thinking, and background in psychology allows me to approach each project with a deep understanding of the end user's perspective, resulting in highly effective user-centred digital products.",
+      "With my expertise in web application development and proficiency in programming languages such as Python and JavaScript, I approach each project with a deep understanding of the end user's perspective. I am skilled in all stages of the development cycle, and strive to design and build highly effective user-centered digital products that bridge the gap between developers and end users.",
   };
 
   return (
