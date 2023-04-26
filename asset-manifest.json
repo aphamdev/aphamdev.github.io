@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a3d32005.css",
+    "main.js": "/static/js/main.a247d565.js",
+    "static/media/aboutme.jpg": "/static/media/aboutme.970ac4ccf00ea043597c.jpg",
+    "static/media/me.png": "/static/media/me.8b0e4d77f40d7752c0a4.png",
+    "static/media/AnthonyPham_Resume.pdf": "/static/media/AnthonyPham_Resume.297bdffb382950cdd143.pdf",
+    "static/media/AP.png": "/static/media/AP.6d53e27b97d47760e691.png",
+    "index.html": "/index.html",
+    "static/media/close.svg": "/static/media/close.313a8e6ce95e72014ca00fb56d8b3ff3.svg",
+    "static/media/open.svg": "/static/media/open.196e865822b06a50385b031f9913c3a0.svg",
+    "main.a3d32005.css.map": "/static/css/main.a3d32005.css.map",
+    "main.a247d565.js.map": "/static/js/main.a247d565.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3d32005.css",
+    "static/js/main.a247d565.js"
+  ]
+}
